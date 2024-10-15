@@ -27,7 +27,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace project.group
+ //   namespace = "com.example.app"
     compileSdkVersion 30
 
     compileOptions {
