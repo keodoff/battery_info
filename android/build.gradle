@@ -1,3 +1,5 @@
+
+
 group 'com.igrik12.battery_info'
 version '1.0-SNAPSHOT'
 
@@ -25,7 +27,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.igrik12.battery_info"
+    namespace project.group
     compileSdkVersion 30
 
     compileOptions {
