@@ -1,5 +1,5 @@
 # Battery Info
-
+com.igrik12.battery_info_example
 [pub package](https://pub.dartlang.org/packages/battery_info)
 
 Flutter plugin, inspired by [battery](https://pub.dev/packages/battery) package, providing detailed information about the device battery (level, health, charging status, etc.). Now supports both IOS and Android.
