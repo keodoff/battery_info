@@ -1,0 +1,2 @@
+C:/Users/Thunder5torm/Documents/GitHub/battery_info/example/android/app/.cxx/RelWithDebInfo/1722596q/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Thunder5torm/Documents/GitHub/battery_info/example/android/app/.cxx/RelWithDebInfo/1722596q/arm64-v8a/CMakeFiles/rebuild_cache.dir
